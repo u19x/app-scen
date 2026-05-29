@@ -1,0 +1,6 @@
+{
+  "name": "AI Retouch Pro",
+  "description": "AI Retouch Pro allows you to edit faces and apply magical AI effects like changing age, professional studio lighting, portrait enhancements, and cinematic filters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

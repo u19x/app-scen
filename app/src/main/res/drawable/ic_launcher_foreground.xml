@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer camera body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,35h12l4,-6h16l4,6h12c4.4,0 8,3.6 8,8v32c0,4.4 -3.6,8 -8,8H24c-4.4,0 -8,-3.6 -8,-8V43C16,38.6 19.6,35 24,35z" />
+        
+    <!-- Shutter circle index -->
+    <path
+        android:fillColor="#EC4899"
+        android:pathData="M54,71c9.4,0 17,-7.6 17,-17S63.4,37 54,37S37,44.6 37,54S44.6,71 54,71z" />
+        
+    <!-- Inner glass reflection -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,65c6.1,0 11,-4.9 11,-11s-4.9,-11 -11,-11S43,47.9 43,54S47.9,65 54,65z" />
+
+    <!-- Big Sparkle Star 1 -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M84,20l1.8,5l5,1.8l-5,1.8l-1.8,5l-1.8,-5l-5,-1.8l5,-1.8z" />
+
+    <!-- Medium Sparkle Star 2 -->
+    <path
+        android:fillColor="#EC4899"
+        android:pathData="M76,12l1,2.5l2.5,1l-2.5,1l-1,2.5l-1,-2.5l-2.5,-1l2.5,-1z" />
+</vector>
